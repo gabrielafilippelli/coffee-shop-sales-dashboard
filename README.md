@@ -1,4 +1,4 @@
-# Coffee Shop Sales Dashboard
+# Coffee Shop Sales & Profit Analysis Dashboard
 
 ## Project Overview
 Analyzed transaction records from a mock coffee shop chain across three NYC locations. Created an interactive Excel dashboard to visualize sales trends, peak hours, product performance, and revenue drivers, supporting data-driven business decisions.
